@@ -28,4 +28,5 @@ A Java RMI-based system to remotely control Windows machines through a simple GU
 
 ### ✅ Step 1: Compile All Classes
 ```bash
+
 javac GUI/*.java
